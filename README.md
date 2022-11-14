@@ -17,6 +17,7 @@ Komponen PWA :
     - Activation
     - Idle
 ## Cache API
+     Cache API adalah tempat penyimpanan lokal yang digunakan browser untuk menyimpan resource agar dapat digunakan kembali sehingga pada pemanggilan selanjutnya tak perlu mengirim permintaan (request) lagi ke jaringan
 ## Fetch API
 ## IndexedDD
 ## Web Socket
